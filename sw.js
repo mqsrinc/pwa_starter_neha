@@ -9,7 +9,7 @@ var filesToCache = [
   'views/tones.ejs',
   'views/comments.ejs',
   'css/style.css',
-  'js/main.js'
+  'main.js'
 ];
 
 /* Start the service worker and cache all of the app's content */
